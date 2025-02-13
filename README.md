@@ -1,4 +1,4 @@
-# ebo_serious_games
+# ebo_colegios
 
 ## Configuración de `ebo_gpt`
 
@@ -25,4 +25,4 @@ Para que `ebo_gpt` funcione correctamente, es necesario crear un archivo `.env` 
 4. Guarda los cambios y cierra el archivo.
 
 Ahora `ebo_gpt` estará configurado correctamente para utilizar la API de OpenAI.
-# ebo_colegios
+

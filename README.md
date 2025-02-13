@@ -7,10 +7,6 @@ Para que `ebo_gpt` funcione correctamente, es necesario crear un archivo `.env` 
 ### Pasos para crear el archivo `.env`
 1. Navega a la carpeta `ebo_gpt` en tu terminal:
    ```sh
-   cd EBO1/ebo_gpt
-   ```
-   o
-   ```sh
    cd EBO2/ebo_gpt
    ```
       

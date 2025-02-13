@@ -108,35 +108,35 @@ class SpecificWorker(GenericWorker):
         ########## BATERÍA DE RESPUESTAS Y FUNCIÓN PARA ALEATORIZAR ##########
 
         self.bateria_aciertos = [
-            "¡Increíble, acertaste!",
-            "¡Qué bien, has acertado!",
-            "¡Excelente trabajo, lo lograste!",
+            "¡Increíble, acertasteis!",
+            "¡Qué bien, lo habéis acertado!",
+            "¡Excelente trabajo, lo lograsteis!",
             "¡Estupendo, muy bien hecho!",
             "¡Fantástico, respuesta correcta!",
-            "¡Bien hecho, estás en racha!",
-            "¡Lo hiciste perfecto, sigue así!",
-            "¡Genial, has acertado, sigue adelante!"
+            "¡Bien hecho, estáis en racha!",
+            "¡Lo hicisteis perfecto, seguid así!",
+            "¡Genial, lo habéis acertado, seguid adelante!"
         ]
 
         self.bateria_fallos = [
-            "Incorrecto. No te preocupes, todos fallamos alguna vez.",
-            "Fallo. ¡Ánimo, la próxima vez seguro que aciertas!",
-            "Error. ¡No pasa nada, lo seguirás haciendo mejor!",
-            "Incorrecto. Un pequeño tropiezo, sigue adelante, ¡lo lograrás!",
-            "Mal, pero ¡No te rindas, sigue intentándolo!",
-            "Fallo. ¡Sigue adelante, cada intento te acerca más!",
-            "Fallaste pero ¡El error no te define, lo harás mejor la próxima!",
-            "Incorrecto. ¡Ánimo, que pronto lo conseguirás!"
+            "Incorrecto. No os preocupéis, todos fallamos alguna vez.",
+            "Fallo. ¡Ánimo, la próxima vez seguro que lo acertáis!",
+            "Error. ¡No pasa nada, lo seguiréis haciendo mejor!",
+            "Incorrecto. Un pequeño tropiezo, seguid adelante, ¡lo lograréis!",
+            "Mal, pero ¡No os rindáis, seguid intentándolo!",
+            "Fallo. ¡Seguid adelante, cada intento os acerca más!",
+            "Fallasteis, pero ¡El error no os define, lo haréis mejor la próxima!",
+            "Incorrecto. ¡Ánimo, que pronto lo conseguiréis!"
         ]
 
         self.bateria_pasapalabra = [
-            "¡Pasapalabra, sigue adelante, que te va a ir genial!",
-            "¡Pasapalabra! Vamos a la siguiente, ¡tú puedes!",
-            "¡No te preocupes, pasamos a la siguiente palabra!",
-            "¡Pasapalabra! La siguiente será tuya.",
+            "¡Pasapalabra, seguid adelante, que os va a ir genial!",
+            "¡Pasapalabra! Vamos a la siguiente, ¡vosotros podéis!",
+            "¡No os preocupéis, pasamos a la siguiente palabra!",
+            "¡Pasapalabra! La siguiente será vuestra.",
             "¡Siguiente palabra, que va a ser más fácil!",
             "¡Pasapalabra, a por la siguiente con todo!",
-            "¡Vamos, pasemos a la siguiente, lo lograrás!",
+            "¡Vamos, pasemos a la siguiente, lo lograréis!",
             "¡Pasapalabra, ahora es el turno de la siguiente!"
         ]
 

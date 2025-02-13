@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>app_juegos</string>
+   <string>APP de Juegos EBO - by Robolab</string>
   </property>
   <widget class="QTextEdit" name="textEdit_2">
    <property name="geometry">

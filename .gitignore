@@ -1,1 +1,12 @@
 EBO2/ebo_gpt/.env
+EBO2/.idea/
+EBO2/app_juegos/src/__pycache__/
+EBO2/ebo_app/src/__pycache__/
+EBO2/ebo_gpt/.idea/
+EBO2/ebo_gpt/src/__pycache__/
+EBO2/pasapalabra/.idea/
+EBO2/pasapalabra/src/__pycache__/
+EBO2/simonSay/.idea/
+EBO2/simonSay/src/__pycache__/
+EBO2/storytelling/src/__pycache__/
+
